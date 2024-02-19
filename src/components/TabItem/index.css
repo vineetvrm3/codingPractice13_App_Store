@@ -1,0 +1,10 @@
+/* Write your CSS here */
+.tab-item {
+  color: #2563eb;
+  text-decoration: underline #2563eb;
+}
+
+.tab {
+  cursor: pointer;
+  border: 0px;
+}
